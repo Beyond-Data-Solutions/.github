@@ -48,13 +48,10 @@ The code here is client and internal production work, so the repositories are pr
 | `BDS_bpo` | BPO Autopilot web application and fill engine | Production |
 | `BDS_website` | Marketing site (Next.js) | Live |
 | `BDS_vault` | Obsidian knowledge base: doctrine, proof registry, night-run specs | Active |
-| `<assets-repo>` | Beyond Assets financial tracker | Production |
-| `<trading-repo>` | Kraken spot ingest and backtesting platform | Research |
-| `<poshtracker-repo>` | Resale inventory and listing tracker | Rebuild in progress |
-| `<repo>` | | |
-| `<repo>` | | |
-| `<migrating-1>` | | Migrating |
-| `<migrating-2>` | | Migrating |
+| `BDS_assets` | Beyond Assets financial tracker | Production |
+| `BDS_trading` | Kraken spot ingest and backtesting platform | Research |
+| `BDS_poshtracker` | Resale inventory and listing tracker | Rebuild in progress |
+
 
 If you are evaluating us for a project, we are glad to walk through any of it live.
 
